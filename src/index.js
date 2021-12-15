@@ -1,6 +1,8 @@
 import "./styles.css";
 
 console.log("ああああああああ");
+console.log("ああああああああ");
+console.log("ああああああああ");
 
 document.getElementById("app").innerHTML = `
 <h1>Hello Vanilla!</h1>
